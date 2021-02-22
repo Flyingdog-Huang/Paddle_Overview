@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="134834ac-d505-467f-bbe5-ce972540925f" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1idZ1in5wlL7XNIQbdJhnHMJpTM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.housePrice">
+    <configuration name="housePrice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="paddle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/housePrice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rewriteHousePriceModleByPaddle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="paddle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rewriteHousePriceModleByPaddle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="paddle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.housePrice" />
+        <item itemvalue="Python.rewriteHousePriceModleByPaddle" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="134834ac-d505-467f-bbe5-ce972540925f" name="默认更改列表" comment="" />
+      <created>1602239215608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602239215608</updated>
+      <workItem from="1602239221364" duration="2567000" />
+      <workItem from="1602289797546" duration="3129000" />
+      <workItem from="1602328063729" duration="1251000" />
+      <workItem from="1602463874008" duration="716000" />
+      <workItem from="1602549434842" duration="3000" />
+      <workItem from="1603180040998" duration="5325000" />
+      <workItem from="1603413942651" duration="1508000" />
+      <workItem from="1603793330373" duration="5016000" />
+      <workItem from="1603799627394" duration="29000" />
+      <workItem from="1604026902307" duration="132000" />
+      <workItem from="1612332234072" duration="9921000" />
+      <workItem from="1612399490084" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="888" y="-885" key="FileChooserDialogImpl" timestamp="1604026986039">
+      <screen x="6" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="888" y="-885" key="FileChooserDialogImpl/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1604026986039" />
+    <state width="1037" height="422" key="GridCell.Tab.0.bottom" timestamp="1612344405918">
+      <screen x="1920" y="-853" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="422" key="GridCell.Tab.0.bottom/0.0.1280.689/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1612344405918" />
+    <state width="1220" height="121" key="GridCell.Tab.0.bottom/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1603799569294" />
+    <state width="1037" height="422" key="GridCell.Tab.0.center" timestamp="1612344405917">
+      <screen x="1920" y="-853" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="422" key="GridCell.Tab.0.center/0.0.1280.689/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1612344405917" />
+    <state width="1220" height="121" key="GridCell.Tab.0.center/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1603799569294" />
+    <state width="1037" height="422" key="GridCell.Tab.0.left" timestamp="1612344405917">
+      <screen x="1920" y="-853" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="422" key="GridCell.Tab.0.left/0.0.1280.689/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1612344405917" />
+    <state width="1220" height="121" key="GridCell.Tab.0.left/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1603799569294" />
+    <state width="1037" height="422" key="GridCell.Tab.0.right" timestamp="1612344405918">
+      <screen x="1920" y="-853" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="422" key="GridCell.Tab.0.right/0.0.1280.689/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1612344405918" />
+    <state width="1220" height="121" key="GridCell.Tab.0.right/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1603799569294" />
+    <state width="1037" height="422" key="GridCell.Tab.1.bottom" timestamp="1612344405918">
+      <screen x="1920" y="-853" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="422" key="GridCell.Tab.1.bottom/0.0.1280.689/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1612344405918" />
+    <state width="1220" height="204" key="GridCell.Tab.1.bottom/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1603799569288" />
+    <state width="1037" height="422" key="GridCell.Tab.1.center" timestamp="1612344405918">
+      <screen x="1920" y="-853" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="422" key="GridCell.Tab.1.center/0.0.1280.689/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1612344405918" />
+    <state width="1220" height="204" key="GridCell.Tab.1.center/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1603799569287" />
+    <state width="1037" height="422" key="GridCell.Tab.1.left" timestamp="1612344405918">
+      <screen x="1920" y="-853" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="422" key="GridCell.Tab.1.left/0.0.1280.689/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1612344405918" />
+    <state width="1220" height="204" key="GridCell.Tab.1.left/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1603799569287" />
+    <state width="1037" height="422" key="GridCell.Tab.1.right" timestamp="1612344405918">
+      <screen x="1920" y="-853" width="1080" height="1920" />
+    </state>
+    <state width="1037" height="422" key="GridCell.Tab.1.right/0.0.1280.689/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1612344405918" />
+    <state width="1220" height="204" key="GridCell.Tab.1.right/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1603799569288" />
+    <state x="2290" y="-206" key="com.intellij.ide.util.TipDialog" timestamp="1612399533171">
+      <screen x="1920" y="-853" width="1080" height="1920" />
+    </state>
+    <state x="2290" y="-206" key="com.intellij.ide.util.TipDialog/0.0.1280.689/1920.-853.1080.1920@1920.-853.1080.1920" timestamp="1612399533171" />
+    <state x="439" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1603793331017" />
+    <state x="664" y="-716" key="com.intellij.ide.util.TipDialog/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1604026904566" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/paddle$rewriteHousePriceModleByPaddle.coverage" NAME="rewriteHousePriceModleByPaddle Coverage Results" MODIFIED="1612332758624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/paddle$test.coverage" NAME="test Coverage Results" MODIFIED="1602291896916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/paddle$housePrice.coverage" NAME="housePrice Coverage Results" MODIFIED="1612340982322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
